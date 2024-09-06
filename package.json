@@ -1,0 +1,21 @@
+{
+  "name": "teleg",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": {
+    "name": "Sayuru De Alwis",
+    "email": "sayurudealwis99@gmail.com",
+    "github": "https//github.com/sayuru99"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^3.3.2",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
