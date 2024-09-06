@@ -19,8 +19,8 @@ The project follows a modular architecture with the following components:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sayuru99/your-repository.git
-   cd your-repository
+   git clone https://github.com/Sayuru99/Telegram-to-Discord-Media-Bot.git
+   cd Telegram-to-Discord-Media-Bot
    ```
 
 2. **Install dependencies:**
